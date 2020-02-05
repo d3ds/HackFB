@@ -17,7 +17,7 @@ logo = """\x1b[34m
                   ░                            ░\x1b[00m"""
 
 banner = """
-\x1b[Author : Mr.Starsick
+\x1b[34mAuthor : Mr.Starsick
 
 \x1b[34mHack Friendlist Facebook
 \x1b[00mAutomatic cracking password with Bruteforce
